@@ -95,6 +95,23 @@ static const supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY';
 
 flutter run
 
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Sign In Page
+![Sign In](screenshots/signin.png)
+
+### Sign Up Page
+![Sign Up](screenshots/signup.png)
+
+### Add Blog Page
+![Add Blog](screenshots/add_blog.png)
+
+### Blog Details Page
+![Blog Details](screenshots/blog.png)
+
 ## Author
 
 Anjana Pradeesh
